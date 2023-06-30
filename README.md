@@ -1,3 +1,7 @@
 # Matériel pour l'atelier "Manipuler des données MARC avec Python"
 
-version 0 pour test
+Le dépôt contient un notebook pymarc_bases.ipynb conçu pour être exécuté
+sous Google Colab.
+
+Il contient également dans un répertoire data un fichier unimarc à la fois
+en ISO2709 encodé en UTF8 et en format texte.
